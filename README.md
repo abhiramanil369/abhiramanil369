@@ -2,11 +2,7 @@
 
 ### Final-year Computer Science Engineering Student | Software Developer | AI/ML Enthusiast
 
-I'm a final-year **Computer Science Engineering student at VIT Vellore** with a strong interest in building practical software and AI-powered solutions.
-
-I've worked on software development, NLP, automation, and AI/ML projects, and recently completed a **Developer Internship at Samsung Research Bangalore**.
-
-I enjoy solving problems, learning new technologies, and turning ideas into useful products.
+I'm a final-year **Computer Science Engineering student at VIT Vellore** with a strong interest in building practical software and AI-powered solutions. I've worked on software development, NLP, automation, and AI/ML projects, and recently completed a **Developer Internship at Samsung Research Bangalore**. I enjoy solving problems, learning new technologies, and turning ideas into useful products.
 
 ---
 
