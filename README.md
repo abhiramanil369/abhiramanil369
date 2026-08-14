@@ -86,7 +86,7 @@ A job-application assistant designed to help students keep track of placement an
 
 ---
 
-### 💡 *"Build things that solve real problems."*
+### 💡 *"Turning data into intelligence and coffee into code."*
 
 
 <!--
